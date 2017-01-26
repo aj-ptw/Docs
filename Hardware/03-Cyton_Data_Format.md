@@ -157,7 +157,7 @@ The accelerometer data, if used, is sent as a 16bit signed value. We're using a 
 
 ## 32-Bit Unsigned Time Stamp
 
-To time stamp data, if used, is sent as a 32 bit unsigned integer representing time since the board was started in ms. We are using a different scheme to convert these values into 32 bit integers in Processing.
+Time stamp data, if used, is sent as a 32 bit unsigned integer representing time since the board was started in ms. We are using a different scheme to convert these values into 32 bit integers in Processing.
 
 ## Interpreting the EEG Data
 
